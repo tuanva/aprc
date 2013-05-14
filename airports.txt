@@ -1,0 +1,6 @@
+LHR,London Heathrow,32,55,0.01
+MAN,Manchester,30,50,0.1
+TXL,Berlin Tegel,47,56,0.01
+UAK,Narsarsuaq,3,12,0.1
+DME,Moscow Domodedovo,75,35,0.1
+ESB,Esenboga International,76,76,0.1
